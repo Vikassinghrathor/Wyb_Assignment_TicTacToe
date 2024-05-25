@@ -24,7 +24,7 @@ This project is a customizable Tic-Tac-Toe game built with React. Users can defi
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd customizable-tic-tac-toe
+    cd tic-tac-toe
     ```
 3. **Install dependencies:**
     ```bash
